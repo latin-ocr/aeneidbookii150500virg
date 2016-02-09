@@ -1,0 +1,54 @@
+INTRODUCTION To VIRGIL. 17
+
+RHYTHM.
+
+Virgil uses in the Aeneid the metre known as Dactylic
+Hexameter, that is 3, line containing six daotyls, each daotyl
+consisting of one long syllable followed by two short syllables.
+Two irregularities however are to be noticed3 first, the 1351,
+foot has but two syllables (a long and a short, or two long) ;
+secondly, in any one⁷ two, three or even four of the first four
+syllables a dactyl may be replaced by a spondee, that is a foot
+consisting of two long syllables.
+
+This metre is generally represented thus
+
+—vv —vv —vv -—vv -ιν
+
+ 
+
+ 
+
+ 
+
+ 
+
+—Vs‘
+
+Thus sixteen different arrangements of the line are possible
+(apart from the rariation in the last foot), viz. one with the
+first four feet dactyls, four with one spondes 111 the line, six
+with two spondees in the line, four with three spondees in the
+line,·and one with four spondees in the first four feet. For
+examples see the lines indicated 011 page 20,
+
+ELISION.
+
+But in a majority of the lines a further difficulty arises.
+Where the last syllable of a word ends in a vowel, or in m.
+and the first syllable of the next word begins with a vowel or
+h, these two syllables are elided or taken together and counted
+as one. Such a case is called 01151011* For example vera
+inquit, counts as three syllables in scansion, so also tegerem
+ut, clivum humo, curru haeret.
+
+SCANSION.
+
+Probably the best way for beginners to get the scansion of
+Virgil is as follows: Mark first all cases of elisi0n3 then the
+two last feet, which uniformly consist of the last five syHableS‚
+
+ 
+
+” Elision is usually marked thus .· versa J inquit or veraffiinquit.
+
